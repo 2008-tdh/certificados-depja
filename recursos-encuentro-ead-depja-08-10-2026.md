@@ -20,6 +20,9 @@ Bienvenidas y bienvenidos. Aquí se reúnen los materiales de la capacitación. 
    - **3.2 [Introducción al uso del Dispositivo de Trayectorias](https://canva.com/design/DAHN6oBifpw/x2zMuYGpreEZNn8O1SGgVw/watch?utlId=hcc6665cfd3)**  
      Video introductorio.
 
+4. **[Cómo descargar planillas de calificaciones de Moodle y reporte de alumnos GEI](https://drive.google.com/file/d/177IeFDvBND4nb1FqKuzUjrroKAKqDXGl/view?usp=drivesdk)**  
+   Guía para obtener los registros y reportes necesarios para el seguimiento de trayectorias.
+
 ---
 
 **DEPJA – Educación a Distancia**
